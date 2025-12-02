@@ -5,5 +5,5 @@ def about(request):
     return render(request, 'about.html')
 
 
-def about(request):
+def rules(request):
     return render(request, 'rules.html')
